@@ -10,3 +10,7 @@ Projeto criado através do curso do Devsupeior da Udemy com objetivos de criar u
 - Maven
 - Postman
 - Banco em Memoria H2
+
+
+<img src="![Screenshot_2](https://github.com/ErikRodrigues-Dev/workshop-pringboot-jpa/assets/103855533/2d248844-b6c1-4f42-bc27-252c09cdd8d0)
+">
