@@ -11,5 +11,10 @@ Projeto criado através do curso do Devsupeior da Udemy com objetivos de criar u
 - Postman
 - Banco em Memoria H2
 
+## Modelo de domínio
+<img src="https://github.com/ErikRodrigues-Dev/workshop-pringboot-jpa/assets/103855533/2d248844-b6c1-4f42-bc27-252c09cdd8d0">
+
+
+## Instância de Domínio
 
 <img src="https://github.com/ErikRodrigues-Dev/workshop-pringboot-jpa/assets/103855533/2d248844-b6c1-4f42-bc27-252c09cdd8d0">
